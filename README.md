@@ -42,7 +42,7 @@ The analysis involves exploratory data analysis (EDA) techniques to uncover patt
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./Microsoft New Movie Studio.ipynb) or review this [presentation](./Microsoft New Movie Studio.pdf).
+See the full analysis in the [Jupyter Notebook](./Microsoft New Movie Studio.ipynb) or review this [presentation](./Microsoft New Movie Studio presentation.pdf).
 
 For additional info, contact Alex Kipkurui Korir at [koriralex64@gmail.com.com ] 
 
