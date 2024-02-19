@@ -52,7 +52,7 @@ For additional info, contact Alex Kipkurui Korir at [koriralex64@gmail.com.com ]
 
 ├── data
 ├── README.md
-├── Microsoft New Movie Studio.pdf
+├── Microsoft New Movie Studio presentation.pdf
 └── Microsoft New Movie Studio.ipynb
 
 
